@@ -4,6 +4,8 @@
   <img align="left" alt="Linkedin" width="100px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+<br/>
+
 [![Gmail Badge](https://img.shields.io/badge/-winnieng3210@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:winnieng3210@gmail.com)](mailto:winnieng3210@gmail.com)
 
 <br/>
