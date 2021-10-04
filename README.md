@@ -1,10 +1,14 @@
 ### 👋 Hi there, my name's Winnie and I'm a Software Engineer based in NYC!
 
-<a href="https://www.linkedin.com/in/cwingng/">
-  <img align="left" alt="Linkedin" width="100px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 
-[![Gmail Badge](https://img.shields.io/badge/-winnieng3210@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:winnieng3210@gmail.com)](mailto:winnieng3210@gmail.com)
+
+[![AngelList Badge](https://img.shields.io/badge/-Winnie%27s_AngelList-e4405f?style=flat-square&logo=AngelList&logoColor=white&link=https://angel.co/winnie-ng-2)](https://angel.co/winnie-ng-2)
+
+[![Linkedin Badge](https://img.shields.io/badge/-Winnie%27s_LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cwingng/)](https://www.linkedin.com/in/cwingng/)
+
+[![Gmail Badge](https://img.shields.io/badge/-Winnie%27s_Email-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:winnieng3210@gmail.com)](mailto:winnieng3210@gmail.com)
+
+[![Website Badge](https://img.shields.io/badge/-Winnie%27s_Portfolio-e34f26?style=flat-square&logo=Portfolio&logoColor=white&link=winnieng3210.github.io)](winnieng3210.github.io)
 
 <br/>
 
