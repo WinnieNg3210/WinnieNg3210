@@ -8,7 +8,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-Winnie%27s_Email-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:winnieng3210@gmail.com)](mailto:winnieng3210@gmail.com)
 
-[![Website Badge](https://img.shields.io/badge/-Winnie%27s_Portfolio-e34f26?style=flat-square&logo=Portfolio&logoColor=white&link=winnieng3210.github.io)](winnieng3210.github.io)
+[![Website Badge](https://img.shields.io/badge/-Winnie%27s_Portfolio-e34f26?style=flat-square&logo=Portfolio&logoColor=white&link=winnieng3210.github.io)](https://www.winnieng.dev)
 
 <br/>
 
